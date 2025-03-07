@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Jim-Clothier2/Jim-Clothier2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me
+- 🔭 I’m currently working on a File Organization Python Script
+- 🔭 I’m currently working on a C# Pathfinding Visualizer 
+- 🌱 I’m currently learning applications for my two previous C# & Python College Classes
+- 📫 How to reach me: email - jim.clothier.97@gmail.com | LinkedIn - www.linkedin.com/in/jimclothier97
+- ⚡ Fun fact: Fish form orderly lines in times of emergencies. When threatened, schooling fish frequently form organized straight lines to allow for evacuations through more narrow spaces. Even in instances of chaos, they always manage to create order. 
 
-Here are some ideas to get you started:
+##Short Term Goals
+-Programming Profficienciy:
+  ~🔜 Pyhton
+  ~🔜 C#
+  ~🔜 React
+-Tools
+  ~🔜 Git
+  ~🔜 Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Github Stats
+![Jim-Clothier2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jim-Clothier2&show_icons=true)
