@@ -9,12 +9,12 @@
 
 ##Short Term Goals
 -Programming Profficienciy:
-  ~🔜 Pyhton
-  ~🔜 C#
-  ~🔜 React
+ -🔜 Pyhton
+ -🔜 C#
+ -🔜 React
 -Tools
-  ~🔜 Git
-  ~🔜 Unity
+  -🔜 Git
+  -🔜 Unity
 
 ##Github Stats
 ![Jim-Clothier2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jim-Clothier2&show_icons=true)
